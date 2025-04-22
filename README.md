@@ -3,6 +3,8 @@
 Some text
 
 
-##Local Development 
+##Local Development
 
-Open index.html in your browser
+Open index.html in your browser.
+It is really fun to learn git.
+
